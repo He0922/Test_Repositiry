@@ -9,7 +9,7 @@ long factorial(int n) {
     }
 }
 
-
+//这里进行main函数
 int main() {
     int a;
     printf("Input a number: ");
